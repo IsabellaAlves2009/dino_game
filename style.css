@@ -18,7 +18,7 @@ body{
     margin: 5%;
     background: #fff;
     height: 30em;
-    width: 100%:
+    border-bottom: green 8px solid;
 }
 
 #span{
@@ -30,8 +30,9 @@ body{
 }
 
 #time{
+    position: absolute;
     font-family: 'Ubuntu Roboto Mono', sans-serif;
-    font-size: 2em;
-    margin-left: 85%;
+    font-size: 200%;
+    left: 85%;
     color: #000;
 }
